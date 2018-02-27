@@ -1,5 +1,5 @@
 # Rolly
-Card game written in HTML,CSS & JavaScript. 
+Roll the dice game written in HTML,CSS & JavaScript. 
 Editor : Brackets.io
 Other tools : Adobe Photoshop CC 2018
 
